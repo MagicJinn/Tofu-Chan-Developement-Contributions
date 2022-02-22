@@ -13,11 +13,11 @@ Unlike the picture of the planet Pumpernickel in the video, the planet isn’t c
 
 ## Characters
 
-| Name                             | Image                                   | Description                                                                                                       | Gender | Species | Residence                       |
-|----------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------|---------|---------------------------------|
-| **Tofu Chan** or **Tofu**        | ![](./Script_Assets/Tofu_Chan.png)      | **Main character and protagonist of the game**                                                                    | Male   | Tob     | Earth                           |
-| **Tobcuter**                     | ![](./Script_Assets/Tobcuter.png)       | **Tofu Chan's helper and narrator of the story.**                                                                 | N/A    | Robot   | Apple Macintosh                 |
-| **Evil President (Casu Martzu)** | ![](./Script_Assets/Evil_President.png) | **Antagonist of the game. Evil dictator who rules over most of Pumpernickel and seized power in Tofu's absence.** | Male   | Tob     | Evil President's unnamed region |
+|               Name               |                  Image                  |                                                    Description                                                    | Gender | Species |            Residence            |
+|:--------------------------------:|:---------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:------:|:-------:|:-------------------------------:|
+|     **Tofu Chan** or **Tofu**    |    ![](./Script_Assets/Tofu_Chan.png)   |                                   **Main character and protagonist of the game**                                  |  Male  |   Tob   |              Earth              |
+|           **Tobcuter**           |    ![](./Script_Assets/Tobcuter.png)    |                                 **Tofu Chan's helper and narrator of the story.**                                 |   N/A  |  Robot  |         Apple Macintosh         |
+| **Evil President (Casu Martzu?)** | ![](./Script_Assets/Evil_President.png) | **Antagonist of the game. Evil dictator who rules over most of Pumpernickel and seized power in Tofu's absence.** |  Male  |   Tob   | Evil President's unnamed region |
 
 ### Main Characters
 
