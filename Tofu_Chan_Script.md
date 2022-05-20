@@ -6,10 +6,14 @@
 
 Tofu lives on earth in his bakery but one day a mysterious traveling Töb comes to him. Tofu has not seen another Töb in years so listens to what they have to say. He is told he needs to go back to his home planet of Pumpernickel urgently on the next SpaceTob flight.
 [Confuzzles#7858]
+
 Tofu travels to Pumpernickel and finds out that **[Evil President]** has taken over parts of the planet. The only part that hasn’t been taken over is Töbistan, because they are too powerful. The **Töbs** don’t do anything about the **[Evil President]** because they are too busy sleeping and eating bread.
+
 Unlike the picture of the planet Pumpernickel in the video, the planet isn’t completely brown, but is composed of different regions. The bread region of Töbistan is where the **Töbs** live, and the rest is inhabited by (mainly) other creatures.
 
 ## Full story
+
+*empty*
 
 ## Characters
 
@@ -25,7 +29,7 @@ Unlike the picture of the planet Pumpernickel in the video, the planet isn’t c
 
 #### Bosses
 
-##### [Chief Engineer](https://github.com/photon-niko/Tofu-Chan-Developement-Contributions/edit/main/Tofu_Chan_Script.md#chief-engineer-1):
+##### [Chief Engineer](#chief-engineer-1):
 
 The Chief Engineer is the leader of the Mechanic Hamsters.
 
@@ -106,6 +110,12 @@ The Mechanic Hamsters are very proud of their engineering skills. They are also 
 
 The Architect Rats live in a large city built above the Mechanic Hamsters. They are very proud of their architectural skill. They build their buildings in very confusing and maze-like ways. They are friendly to almost all species on Pumpernickel, except the Mechanical Hamsters. They critisize the Hamsters for their chaotic and ugly machines. *“When your time comes, you will be remembered, not for the ideas you had, but for the glory and gleam of the things you built”*.
 
+### 2 other unnamed regions
+
+### Evil President's unnamed region
+
 ### Motivation Meadows
+
+![](./Script_Assets/Motivation_Meadows_Discord_Screenshot.png)
 
 *Will be expanded upon later*
