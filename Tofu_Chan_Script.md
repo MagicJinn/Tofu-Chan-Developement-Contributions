@@ -79,19 +79,39 @@ After completing the tutorial, the game will be almost completely open world (ex
 
 The Chief Engineer will be the last boss battle in the Mechanic Hamsters area, and is one of the final bosses of the Rodent Isles, together with the Master Architect. The boss battle has three phases.
 
-1. The Chief Engineer pilots a Makeshift Mech. He will use this Mech to shoot bullets at you. 95% of these bullets are red, and 5% green. Touching a red bullet decreases motivation. When you touch a green bullet, you can try to befriend it and send it back to the Engineer. After doing this 3 times the Mech loses one of its arms, and the second phase of the fight begins.
-2. The Engineer will stop shooting bullets at you, but will instead raise turrets from the ground. These turrets shoot slow homing rockets towards Tofu. Touching a rocket decreases motivation. Interacting with the turrets allows Tofu to befriend them and turn on the Engineer. It takes 3 turrets to win this phase. When 3 turrets have been turned, the Mech loses one of its legs.
-3. The turrets disappear into the ground. [work in progress]
+1. The Chief Engineer pilots a Makeshift Mech. He will use this Mech to shoot the **Ball Bro’s** at you, the 3 hamsters that live inside a mechanized hamster ball that will bounce around the arena to try and hit you. Whenever they hit the Engineer, they will be absorbed by him, allowing him to shoot them out again. When the bro’s hit 3 walls without being absorbed by the Engineer, they will become dazed, after which they will return to the Mech. You can befriend the Bro’s when they are dazed and make them fight alongside you to defeat the Engineer. When all Ball Bro’s have been befriended, the Mech loses the arm with the ball-cannon
+
+2. The Engineer will stop shooting the Ball Bro’s at you, but will instead raise the **Turret Trio** from the ground. These 3 hamsters will shoot slow homing rockets towards Tofu from their turrets. Touching a rocket decreases motivation. Luring a missile towards a turret will stun it and allow you to interact with them. Interacting with the Turret Trio allows Tofu to befriend each one of them and turn them on the Engineer. When the Trio have been befriended, the Mech loses one of its legs. 
+
+3. The turrets disappear into the ground. The **Wheel Twins** will appear, 2 hamsters that run in mechanized hamster-wheels. The Engineer can grab the wheels to throw them at you. After a wheel has been thrown and hits a wall, it will be dazed, allowing you to interact with them. Befriending a wheel will stop them from damaging you, and when both wheels are befriended, they will place themselves on both sides of the Engineer and hit him from both sides. This will shatter his power core on his chest, defeating the Mech.
+
+After the Chief Engineer has been defeated, you are able to start an optional quest to help him repair his Mech. Once this quest is completed, you are able to recruit the Engineer into your party. 
+
+#### Master Architect:
+
+Work in progress
 
 ## Regions of Pumpernickel
 
 ### Töbistan
 
+Residents: Töbs 
+
+Environment: The ground is a brown color, and all vegetation is wheat.
+
 This region is inhabited by the Töbs, the same species as Tofu Chan. The Töbs like to relax and to have fun, and most important of all, they like bread. 
 
 ### Rodent Island
 
+Residents: The Mechanic Hamsters, the Architect Rats, the Laid-Back Capybaras.
+
+Environment: Segmented.
+
 Rodent island is inhabited by the three types of rodents: The Mechanic Hamsters, the Architect Rats, the Laid-Back Capybaras. All three species live in different areas, but they interact often.
+
+* The Mechanic Hamsters: Underground. Large mechanical puzzles, secret latches to hidden rooms and paths. 
+* The Architect Rats: A big city with confusing and maze-like architecture. Constant constructionwork going on. 
+* The Laid-Back Capybaras: Hawaii themed paradise beach. Small thatch beach houses. 
 
 #### The War
 
@@ -104,6 +124,7 @@ The Laid-Back Capybaras live on the beaches of the Rodent Island, and they like 
 #### The Mechanic Hamsters
 
 The Mechanic Hamsters live underground in large mechanical structures. There structures are full of puzzles and traps. The Mechanic city is lit up by electronic lights and powered by large waterwheels. The Hamsters made a canal to allow water from the coast to flow in and power their city.
+
 The Mechanic Hamsters are very proud of their engineering skills. They are also the ones that started the war. They believe that function is more important than appearance. *“Even if you build your houses out of diamond and your cities out of gold, if the fires aren’t warm and the roofs don’t keep you dry, all you’ve built is a pile of metal and stone”*.
 
 #### The Architect Rats
@@ -118,4 +139,26 @@ The Architect Rats live in a large city built above the Mechanic Hamsters. They 
 
 ![](./Script_Assets/Motivation_Meadows_Discord_Screenshot.png)
 
-*Will be expanded upon later*
+[taylor i think#1915]
+
+
+Motivation Meadows (or MM) will be an uninhabited area on Pumpernickel, which will be introduced to you later in the game. Whenever you befriend anyone during your adventures and either don’t recruit them, or you don’t reach the 125% motivation needed to do so, they are sent to Motivation Meadows
+
+*[Imagine the Breach from Enter the Gungeon, or the Castle Town from Deltarune: Chapter 2.]*
+
+#### Re-motivate
+
+When an encounter was won, but the motivation bar was between 100-124%, the enemy is still sent to Motivation Meadows, where you will be able to still befriend them in a little mini-game. 
+
+#### Building your own little town
+
+The more people you send over to Motivation Meadows, the merrier. And we need all the hands we can get! The higher the population MM becomes, the more they can accomplish. When you enter MM, a small population counter will be visible in the corner of your screen (along with a maximum population counter, population/maximum), as well as a big population sign. When your population is high enough, you unlock the ability to build different buildings. Each of these buildings can give you different boosts during gameplay, or unlock new shops, mini-games etc., and each consecutive building requires more population than the last. The buildings can be placed in different locations, allowing you to customize the little hopeful town to your hearts desire. 
+
+#### Marketing the game
+
+Marketing a game is best done by building it into the game itself. When someone wants to share their progress in the game, or perhaps the layout of their MM town, they could do so via screenshot, but it could be done better with the internal share button. Clicking the share button would have all villagers of the town run into position, zoom out the camera, and **FLASH**. The act of sharing progress in the game can be made fun and rewarding for the player. 
+
+#### Rise of a Dictator Free Society
+
+With Motivation Meadows providing bonuses to Tofu, and with many players enjoying a Collectathon (*“collecting”* all inhabitants), it is inevitable that players completely finish all building projects in MM. A new *“secret”* ending is then unlocked, in which you show the **[Evil Dictator]** the progress you’ve made on building a society free from dictators and bullies. The dictator, who never thought this to be possible, will come to his senses and realize his mistakes, allowing you to finish the game without imprisoning the dictator. This ending can be unlocked both before and after you already defeated the dictator.
+
